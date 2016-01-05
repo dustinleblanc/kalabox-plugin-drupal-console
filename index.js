@@ -18,8 +18,8 @@ module.exports = function(kbox) {
   kbox.ifApp(function(app) {
 
     // Grab the clients
-    var drupalConsole = require('./lib/console.js');
-    var console = new drupalConsole(kbox, app);
+    var DrupalConsole = require('./lib/console.js');
+    var console = new DrupalConsole(kbox, app);
 
     // Events
     // Install the drush container for our things
