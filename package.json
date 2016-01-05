@@ -1,0 +1,24 @@
+{
+  "name": "kalabox-plugin-drupal-console",
+  "version": "0.0.1",
+  "description": "Plugin For Kalabox to use Drupal Console with Drupal 8 Apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dustinleblanc/kalabox-plugin-drupal-console.git"
+  },
+  "keywords": [
+    "drupal",
+    "docker",
+    "kalabox"
+  ],
+  "author": "Dustin LeBlanc <dustin.m.leblanc@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dustinleblanc/kalabox-plugin-drupal-console/issues"
+  },
+  "homepage": "https://github.com/dustinleblanc/kalabox-plugin-drupal-console#readme"
+}
